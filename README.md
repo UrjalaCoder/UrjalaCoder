@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can find me on [urjalacoder.github.com](urjalacoder.github.com)! 🚀
+You can find me on [urjalacoder.github.com](www.urjalacoder.github.com)! 🚀
 
 <!--
 **UrjalaCoder/UrjalaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
